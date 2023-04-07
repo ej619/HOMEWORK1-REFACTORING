@@ -3,7 +3,7 @@ Homework 1
 
 ## Description
 
-- Remediate the Horiseon website so the content is easiliy accesible by visitors.
+- Remediate code to follows accesibility  so that the site is optimized for sesrch engines.
 
 ## Acceptance Criteria
 GIVEN a webpage meets accessibility standards
