@@ -3,7 +3,7 @@ Homework 1
 
 ## Description
 
-- Remediate code to follows accesibility  so that the site is optimized for sesrch engines.
+- Remediate code to follow accessibility standards so that the site is optimized for sesrch engines.
 
 ## Acceptance Criteria
 GIVEN a webpage meets accessibility standards
